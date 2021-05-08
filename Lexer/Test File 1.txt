@@ -1,0 +1,11 @@
+// I hate whitespace it's a waste of my time
+int main()//comment
+{
+	int x=6;
+	float sum=0;
+	bool result;
+while(x>0){sum=sum+0.5*x;x=x-1;}//just look how easy this is to read
+	if (sum<=25)
+		{result=true}
+	else{result=false}
+}

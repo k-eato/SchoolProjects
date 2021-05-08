@@ -1,0 +1,22 @@
+// These will
+// be
+//removed
+
+int main()
+{
+	float math = 3 * 4;
+	int remainder = math % 5;
+	float division = math / 5;
+	int numbers[4];
+	if (division != remainder)
+	{
+	    numbers[0] = 5;
+	    numbers[1] = 7;
+	    numbers[2] = -1;
+	    numbers[3] = 44; 
+	}
+	if (numbers[1] + numbers[2] > numbers[3] - math)
+	{
+		bool x, y;
+	}
+}
